@@ -1,4 +1,4 @@
-require "pry"
+require "pry"                                   #the code run without "pry", so why is it important
 def second_challenge
   groceries = {
    dairy: ["milk", "yogurt", "cheese"],
